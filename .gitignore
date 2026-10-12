@@ -7,3 +7,5 @@ __pycache__/
 .DS_Store
 data/raw/*
 !data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
